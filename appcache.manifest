@@ -1,0 +1,29 @@
+CACHE MANIFEST
+
+
+CACHE:
+./files.json
+./index.html
+./manifest.json
+./agua.html
+./css/custom.css
+./css/materialize.min.css
+./img/academy.svg
+./img/banner.jpg
+./img/catalogo.svg
+./img/email.svg
+./img/franquias.svg
+./img/lfp.svg
+./img/logo.svg
+./img/lojaonline.svg
+.js/materialize.min.js
+
+
+NETWORK:
+*
+
+
+SETTINGS:
+prefer-online
+
+# hash: 5bb26e876b0097e53cf3b4fc6efffac33ceb68cac1983a6c4518f6f97dc10372
